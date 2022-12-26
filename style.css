@@ -64,3 +64,34 @@ width: 150px;
     font-size: 14px;
     color: #FFB6C1;
 }
+.hero-btn{
+    display: inline-block;
+    text-decoration: none;
+    color: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000);
+    border: 1px solid #00ffd5;
+    padding: 12px 34px;
+    font-size: 13px; 
+    background: transparent;
+    position: relative;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

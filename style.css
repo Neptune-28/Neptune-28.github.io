@@ -47,3 +47,12 @@ width: 150px;
 .nav-links ul li:hover::after{
     width: 100%;
 }
+.text-box{
+    width: 90%;
+    color: #FFB6C1;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}

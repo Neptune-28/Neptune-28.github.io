@@ -40,5 +40,6 @@ width: 150px;
     width: 100%;
     height: 2px;
     background: #ff63d0;
+    display: block;
     margin: auto;
 }

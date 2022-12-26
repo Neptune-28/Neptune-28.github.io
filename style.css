@@ -12,7 +12,7 @@ body  {
     background: black;
     align-items: center;
     justify-content: center;
-    --nav-link-load-time:500ms;
+    --nav-link-load-time:250ms;
 }
 
 
@@ -125,7 +125,7 @@ body  {
     align-items: flex-end;
     background-color: chocolate;
     background:  linear-gradient(rgba(0,0,0, .6),rgba(0, 0 , 0, .7)),
-     url(images/3.jpg) center no-repeat;
+     url(images/background.jpg) center no-repeat;
     background-size: cover;
     z-index: -1;
     transform:translateZ(-300px) ;
